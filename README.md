@@ -1,9 +1,4 @@
-  ___ _ _    ___           _        _      
- | _ ) | |__/ __|__ _ _ __| |_ __ _(_)_ _  
- | _ \ | / / (__/ _` | '_ \  _/ _` | | ' \ 
- |___/_|_\_\\___\__,_| .__/\__\__,_|_|_||_|
-                     |_|                   
-
+# BlacknessCaptain's Project :
 
 # SPINNING-DONUT-with-C
 Simple, Basic and Understandable code to create a Spinning Donut with C, ENJOY !!
